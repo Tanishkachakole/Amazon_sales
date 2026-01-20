@@ -23,7 +23,7 @@ Database Design (ER Diagram)
 
 Below is the ER Diagram representing the complete database structure used in this project:
 
-"ER Diagram" (./images/amazon_er_diagram.png)
+"ER Diagram" (amazon_ER digram.png)
 
 The ER diagram shows relationships between all tables such as products, customers, orders, inventory, payments, etc.»
 
